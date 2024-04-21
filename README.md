@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amakshay18&label=Profile%20views&color=0e75b6&style=flat" alt="amakshay18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amakshay18" alt="amakshay18" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **thisisakshayp18@gmail.com**
