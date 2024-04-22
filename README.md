@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay P</h1>
 <h3 align="center">Self-motivated Flutter Developer mastering the art through self-learning.</h3>
-
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gifhttps://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gifhttps://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amakshay18&label=Profile%20views&color=0e75b6&style=flat" alt="amakshay18" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
