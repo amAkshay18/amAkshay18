@@ -2,7 +2,7 @@
 <h3 align="center">Self-motivated Flutter Developer mastering the art through self-learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amakshay18&label=Profile%20views&color=0e75b6&style=flat" alt="amakshay18" /> </p>
-
+<img src="[your_image_url_here](https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/flutter_webinar_logo.png)">
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **thisisakshayp18@gmail.com**
