@@ -2,7 +2,7 @@
 <h3 align="center">Self-motivated Flutter Developer mastering the art through self-learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amakshay18&label=Profile%20views&color=0e75b6&style=flat" alt="amakshay18" /> </p>
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://blogger.googleusercontent.com/img/a/AVvXsEiBvTaWkOFFihJud4ctimi-3DXWWjwU_x98aUPlba97hoBkHFASSExnr4U5JatHKG_PTDVeyDJ37dPC1EbAtGLNPZP9ixKznYdrTee8cs8kEiiiDfFdHUJ3JDMg2rGLCDCsmYMxSKzq7ci_PrWr4UEuPW1I5VVPTOHY282HjbC4AU5tCVqnvsu-Ss3p)")
+
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **thisisakshayp18@gmail.com**
