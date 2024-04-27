@@ -30,9 +30,10 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
-![LeetCode Stats](https://leetcard.jacoblin.cool/imAkshayp?theme=dark&font=Roboto&ext=heatmap)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amakshay18&show_icons=true&locale=en&layout=compact" alt="amakshay18" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amakshay18&show_icons=true&locale=en" alt="amakshay18" /></p>
+![LeetCode Stats](https://leetcode-card.vercel.app/?username=imakshayp&theme=dark)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amakshay18&show_icons=true&locale=en&layout=compact&theme=dark" alt="amakshay18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amakshay18&" alt="amakshay18" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amakshay18&show_icons=true&locale=en&theme=dark" alt="amakshay18" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amakshay18&theme=dark" alt="amakshay18" /></p>
