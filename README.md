@@ -31,7 +31,8 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-![LeetCode Stats](https://leetcode-card.vercel.app/?username=imakshayp&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/imAkshayp?theme=dark&font=Roboto&ext=heatmap)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amakshay18&show_icons=true&locale=en&layout=compact&theme=dark" alt="amakshay18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amakshay18&show_icons=true&locale=en&theme=dark" alt="amakshay18" /></p>
