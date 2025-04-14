@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amakshay18&label=Profile%20views&color=0e75b6&style=flat" alt="amakshay18" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently mastering **Flutter**
 
-- 📫 How to reach me **thisisakshayp18@gmail.com**
+- 📫 How to reach me **akshaypprabhakaran@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
